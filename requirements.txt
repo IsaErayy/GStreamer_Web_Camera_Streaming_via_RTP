@@ -1,6 +1,6 @@
-### Necessary setup of GStreamer for Visual Studio before compiling codes.
+----Necessary setup of GStreamer for Visual Studio before compiling codes.----
 
-#1- Add necessary include directories to your project.
+1- Add necessary include directories to your project.
 
 => Solution Explorer -> Properties -> C/C++ -> General -> Additional Include Directories -> C:\1.0\mingw_x86_64\lib\glib-2.0\include;C:\1.0\mingw_x86_64\include\gstreamer-1.0;C:\1.0\mingw_x86_64\include\glib-2.0\;C:\1.0\mingw_x86_64\include\glib-2.0\glib;C:\1.0\mingw_x86_64\lib;C:\1.0\mingw_x86_64\include;%(AdditionalIncludeDirectories)
 
