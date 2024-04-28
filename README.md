@@ -1,4 +1,4 @@
-### **CLI Codes For streaming wiht Web Camera**
+### **CLI Codes For streaming with Web Camera via RTP(Real-Time Transfer Protocol)**
 
 **1-Sender CLI Code**
 
